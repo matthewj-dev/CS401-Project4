@@ -2,7 +2,3 @@ credentials
 *~
 *#
 submit.py
-settings.json
-.DS_Store
-
-.mypy_cache
